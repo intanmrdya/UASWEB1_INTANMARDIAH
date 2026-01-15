@@ -1,4 +1,3 @@
-pages/tambah-product.php
 <?php
 include 'koneksi.php';
  
